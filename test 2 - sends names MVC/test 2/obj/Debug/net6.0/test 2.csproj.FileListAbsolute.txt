@@ -1,0 +1,99 @@
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\appsettings.json
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\test 2.exe
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\test 2.deps.json
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\test 2.runtimeconfig.json
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\ref\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\test 2.pdb
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.csproj.AssemblyReference.cache
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.AssemblyInfoInputs.cache
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.AssemblyInfo.cs
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.csproj.CoreCompileInputs.cache
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\scopedcss\bundle\test 2.styles.css
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\ref\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.pdb
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.genruntimeconfig.cache
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\test 2\test 2\obj\Debug\net6.0\test 2.csproj.CopyComplete
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\appsettings.json
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\test 2.exe
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\test 2.deps.json
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\test 2.runtimeconfig.json
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\ref\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\test 2.pdb
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.csproj.AssemblyReference.cache
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.AssemblyInfoInputs.cache
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.AssemblyInfo.cs
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.csproj.CoreCompileInputs.cache
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\scopedcss\bundle\test 2.styles.css
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.csproj.CopyComplete
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\ref\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.pdb
+C:\Users\sudo\source\repos\test repos - RESTful\Cats example\test 2\test 2\obj\Debug\net6.0\test 2.genruntimeconfig.cache
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\appsettings.json
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\test 2.exe
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\test 2.deps.json
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\test 2.runtimeconfig.json
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\ref\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\test 2.pdb
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.csproj.AssemblyReference.cache
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.AssemblyInfoInputs.cache
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.AssemblyInfo.cs
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.csproj.CoreCompileInputs.cache
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\scopedcss\bundle\test 2.styles.css
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.csproj.CopyComplete
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\ref\test 2.dll
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.pdb
+C:\Users\sudo\source\repos\test repos - RESTful\cats and article example combined\test 2 sends cats\test 2\obj\Debug\net6.0\test 2.genruntimeconfig.cache
